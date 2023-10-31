@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BulkyBookWeb
+build_property.RootNamespace = BulkyBookWeb
+build_property.ProjectDir = I:\OutOfCz\.netcore\BulkyBook\BulkyBookWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = I:\OutOfCz\.netcore\BulkyBook\BulkyBookWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/categoriesScafold/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1NjYWZvbGRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/categoriesScafold/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1NjYWZvbGRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/categoriesScafold/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1NjYWZvbGRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/categoriesScafold/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1NjYWZvbGRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/categoriesScafold/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1NjYWZvbGRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Categoryold/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbGRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Categoryold/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbGRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/OutOfCz/.netcore/BulkyBook/BulkyBookWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xaq7ih10jw
